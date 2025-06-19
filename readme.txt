@@ -1,14 +1,23 @@
 // C++ Array //
 
 The program is going to read integers from "number.txt"  file into a one-dimensional array 
-and then display the contents of the array.
+and then display the contents of the array. Also allowing user to:
+- search for a number
+- modify a value at a specific index
+- add a new number to the end
+- remove a number at a specific index
+
+While also handling eceptions handling for invalid input.
+
 
 How to run the code.
 1) make sure all file are in the same directory.
 - main.cpp
--number.cpp
--number.h
--number.txt
+- number.cpp
+- number.h
+- number.txt
+- read.txt
+- readme.png
 
 2) build the project.
 
